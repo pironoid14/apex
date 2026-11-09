@@ -1,0 +1,6 @@
+{
+  "name": "ApexRig - High Performance Computers",
+  "description": "High-performance computer sales platform featuring advanced hardware filtering, secure checkout and payment simulation, real-time inventory management, order processing, and customer analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
